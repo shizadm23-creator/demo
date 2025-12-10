@@ -1,0 +1,29 @@
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;
+
+  <url>
+    <loc>http://127.0.0.1:5500/index.html#</loc&gt;
+    <lastmod>2025-01-01</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+ 
+  <url>
+    <loc>http://127.0.0.1:5500/menu.html</loc&gt;
+    <lastmod>2025-01-01</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://127.0.0.1:5500/about%20us.html</loc&gt;
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>http://127.0.0.1:5500/contactus.html</loc&gt;
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
